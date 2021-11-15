@@ -2,7 +2,7 @@ $(document).ready(function () {
 
     //serach
     
-    $("#search-button").on("click", function () {
+    $("button").on("click", function () {
         var searchEl = $("#search-value").val();
         $("#search-value").val("");
         weatherFunction(searchEl);

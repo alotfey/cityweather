@@ -13,3 +13,6 @@
 ## HTML
 ## Github
 ## openweathermap API
+
+# screenshot
+![screen shot](https://raw.githubusercontent.com/alotfey/cityweather/main/assets/img/Screenshot%20Capture.png)

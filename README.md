@@ -9,4 +9,7 @@
 ## color that indicates whether the conditions are favorable, moderate, or severe
 ## I click on a city in the search history
 
-Credit 
+# Credit 
+## HTML
+## Github
+## openweathermap API
